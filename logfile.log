@@ -1,0 +1,245 @@
+2015-10-11 12:38:32,726 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:38:32,727 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:38:32,727 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-11 12:38:32,728 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:38:32,728 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:38:33,547 INFO  [Log] Excel sheet opened 
+2015-10-11 12:38:37,989 INFO  [Log] New driver instantiated 
+2015-10-11 12:38:38,004 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-11 12:38:41,782 INFO  [Log] Web application launched 
+2015-10-11 12:38:41,793 INFO  [Log] Username picked from Excel is myusername 
+2015-10-11 12:38:41,794 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-11 12:38:41,895 INFO  [Log] Username text box found 
+2015-10-11 12:38:42,075 INFO  [Log] Username entered in the username text box 
+2015-10-11 12:38:42,088 INFO  [Log] Password tex box found 
+2015-10-11 12:38:42,154 INFO  [Log] Password entered in the password text box 
+2015-10-11 12:38:42,167 INFO  [Log] Submit button found 
+2015-10-11 12:38:43,650 INFO  [Log] Click action performed on Submit button 
+2015-10-11 12:38:44,112 INFO  [Log] Browser closed 
+2015-10-11 12:38:44,286 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-11 12:38:44,286 INFO  [Log] X 
+2015-10-11 12:38:44,286 INFO  [Log] X 
+2015-10-11 12:38:44,286 INFO  [Log] X 
+2015-10-11 12:38:44,286 INFO  [Log] X 
+2015-10-11 12:49:48,567 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:49:48,567 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:49:48,568 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-11 12:49:48,568 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:49:48,568 INFO  [Log] **************************************************************************************** 
+2015-10-11 12:49:49,375 INFO  [Log] Excel sheet opened 
+2015-10-11 12:49:53,994 INFO  [Log] New driver instantiated 
+2015-10-11 12:49:54,012 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-11 12:49:57,076 INFO  [Log] Web application launched 
+2015-10-11 12:49:57,095 INFO  [Log] Username picked from Excel is myusername 
+2015-10-11 12:49:57,095 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-11 12:49:57,220 INFO  [Log] Username text box found 
+2015-10-11 12:49:57,294 INFO  [Log] Username entered in the username text box 
+2015-10-11 12:49:57,306 INFO  [Log] Password tex box found 
+2015-10-11 12:49:57,363 INFO  [Log] Password entered in the password text box 
+2015-10-11 12:49:57,375 INFO  [Log] Submit button found 
+2015-10-11 12:50:00,054 INFO  [Log] Click action performed on Submit button 
+2015-10-11 17:22:16,599 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:22:16,601 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:22:16,602 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-11 17:22:16,602 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:22:16,602 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:22:17,463 INFO  [Log] Excel sheet opened 
+2015-10-11 17:22:24,160 INFO  [Log] New driver instantiated 
+2015-10-11 17:22:24,179 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-11 17:22:26,750 INFO  [Log] Web application launched 
+2015-10-11 17:22:26,771 INFO  [Log] Username picked from Excel is myusername 
+2015-10-11 17:22:26,771 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-11 17:22:26,978 INFO  [Log] Username text box found 
+2015-10-11 17:22:27,053 INFO  [Log] Username entered in the username text box 
+2015-10-11 17:22:27,065 INFO  [Log] Password tex box found 
+2015-10-11 17:22:27,122 INFO  [Log] Password entered in the password text box 
+2015-10-11 17:22:27,133 INFO  [Log] Submit button found 
+2015-10-11 17:22:29,215 INFO  [Log] Click action performed on Submit button 
+2015-10-11 17:58:47,459 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:58:47,461 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:58:47,461 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-11 17:58:47,461 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:58:47,461 INFO  [Log] **************************************************************************************** 
+2015-10-11 17:58:48,203 INFO  [Log] Excel sheet opened 
+2015-10-11 17:58:52,992 INFO  [Log] New driver instantiated 
+2015-10-11 17:58:53,040 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-11 17:58:55,771 INFO  [Log] Web application launched 
+2015-10-11 17:58:55,789 INFO  [Log] Username picked from Excel is myusername 
+2015-10-11 17:58:55,790 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-11 17:58:56,080 INFO  [Log] Username text box found 
+2015-10-11 17:58:56,155 INFO  [Log] Username entered in the username text box 
+2015-10-11 17:58:56,168 INFO  [Log] Password tex box found 
+2015-10-11 17:58:56,224 INFO  [Log] Password entered in the password text box 
+2015-10-11 17:58:56,235 INFO  [Log] Submit button found 
+2015-10-11 17:58:58,353 INFO  [Log] Click action performed on Submit button 
+2015-10-17 23:41:38,086 INFO  [Log] **************************************************************************************** 
+2015-10-17 23:41:38,087 INFO  [Log] **************************************************************************************** 
+2015-10-17 23:41:38,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-17 23:41:38,087 INFO  [Log] **************************************************************************************** 
+2015-10-17 23:41:38,087 INFO  [Log] **************************************************************************************** 
+2015-10-17 23:41:38,868 INFO  [Log] Excel sheet opened 
+2015-10-17 23:41:43,315 INFO  [Log] New driver instantiated 
+2015-10-17 23:41:43,333 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-17 23:41:45,577 INFO  [Log] Web application launched 
+2015-10-17 23:41:45,600 INFO  [Log] Username picked from Excel is myusername 
+2015-10-17 23:41:45,600 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-17 23:41:45,796 INFO  [Log] Username text box found 
+2015-10-17 23:41:45,866 INFO  [Log] Username entered in the username text box 
+2015-10-17 23:41:45,878 INFO  [Log] Password tex box found 
+2015-10-17 23:41:45,931 INFO  [Log] Password entered in the password text box 
+2015-10-17 23:41:45,943 INFO  [Log] Submit button found 
+2015-10-17 23:41:47,087 INFO  [Log] Click action performed on Submit button 
+2015-10-18 00:50:46,774 INFO  [Log] **************************************************************************************** 
+2015-10-18 00:50:46,775 INFO  [Log] **************************************************************************************** 
+2015-10-18 00:50:46,775 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 00:50:46,775 INFO  [Log] **************************************************************************************** 
+2015-10-18 00:50:46,776 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:01:02,600 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:01:02,601 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:01:02,601 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:01:02,601 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:01:02,601 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:11:37,730 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:11:37,731 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:11:37,731 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:11:37,731 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:11:37,731 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:14:20,854 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:14:20,855 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:14:20,855 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:14:20,855 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:14:20,855 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:17:45,104 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:17:45,105 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:17:45,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:17:45,105 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:17:45,105 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:25:05,130 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:25:05,131 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:25:05,131 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:25:05,131 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:25:05,131 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:09,844 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:09,846 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:09,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:29:09,846 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:09,846 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:35,810 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:35,811 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:35,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:29:35,811 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:35,811 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:29:36,110 INFO  [Log] Excel sheet opened 
+2015-10-18 01:29:40,320 INFO  [Log] New driver instantiated 
+2015-10-18 01:29:40,337 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-18 01:29:42,855 INFO  [Log] Web application launched 
+2015-10-18 01:29:42,863 INFO  [Log] Username picked from Excel is myusername 
+2015-10-18 01:29:42,863 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-18 01:29:43,045 INFO  [Log] Username text box found 
+2015-10-18 01:29:43,118 INFO  [Log] Username entered in the username text box 
+2015-10-18 01:29:43,130 INFO  [Log] Password tex box found 
+2015-10-18 01:29:43,188 INFO  [Log] Password entered in the password text box 
+2015-10-18 01:29:43,199 INFO  [Log] Submit button found 
+2015-10-18 01:29:45,181 INFO  [Log] Click action performed on Submit button 
+2015-10-18 01:30:27,994 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:30:27,995 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:30:27,995 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:30:27,995 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:30:27,995 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:30:28,359 INFO  [Log] Excel sheet opened 
+2015-10-18 01:30:33,104 INFO  [Log] New driver instantiated 
+2015-10-18 01:30:33,121 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-18 01:30:35,450 INFO  [Log] Web application launched 
+2015-10-18 01:30:35,454 INFO  [Log] Username picked from Excel is myusername 
+2015-10-18 01:30:35,454 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-18 01:30:35,856 INFO  [Log] Username text box found 
+2015-10-18 01:30:35,926 INFO  [Log] Username entered in the username text box 
+2015-10-18 01:30:35,938 INFO  [Log] Password tex box found 
+2015-10-18 01:30:35,992 INFO  [Log] Password entered in the password text box 
+2015-10-18 01:30:36,003 INFO  [Log] Submit button found 
+2015-10-18 01:30:37,105 INFO  [Log] Click action performed on Submit button 
+2015-10-18 01:33:35,079 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:33:35,080 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:33:35,080 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:33:35,080 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:33:35,081 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:33:35,414 INFO  [Log] Excel sheet opened 
+2015-10-18 01:33:39,683 INFO  [Log] New driver instantiated 
+2015-10-18 01:33:39,700 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-18 01:33:42,127 INFO  [Log] Web application launched 
+2015-10-18 01:33:42,129 INFO  [Log] Username picked from Excel is myusername 
+2015-10-18 01:33:42,130 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-18 01:33:42,323 INFO  [Log] Username text box found 
+2015-10-18 01:33:42,397 INFO  [Log] Username entered in the username text box 
+2015-10-18 01:33:42,408 INFO  [Log] Password tex box found 
+2015-10-18 01:33:42,464 INFO  [Log] Password entered in the password text box 
+2015-10-18 01:33:42,475 INFO  [Log] Submit button found 
+2015-10-18 01:33:44,308 INFO  [Log] Click action performed on Submit button 
+2015-10-18 01:40:27,898 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:40:27,899 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:40:27,899 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-18 01:40:27,900 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:40:27,900 INFO  [Log] **************************************************************************************** 
+2015-10-18 01:40:28,266 INFO  [Log] Excel sheet opened 
+2015-10-18 01:40:32,652 INFO  [Log] New driver instantiated 
+2015-10-18 01:40:32,669 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-10-18 01:40:35,108 INFO  [Log] Web application launched 
+2015-10-18 01:40:35,111 INFO  [Log] Username picked from Excel is myusername 
+2015-10-18 01:40:35,111 INFO  [Log] Password picked from Excel is mypassword 
+2015-10-18 01:40:35,244 INFO  [Log] Username text box found 
+2015-10-18 01:40:35,317 INFO  [Log] Username entered in the username text box 
+2015-10-18 01:40:35,328 INFO  [Log] Password tex box found 
+2015-10-18 01:40:35,382 INFO  [Log] Password entered in the password text box 
+2015-10-18 01:40:35,393 INFO  [Log] Submit button found 
+2015-10-18 01:40:37,410 INFO  [Log] Click action performed on Submit button 
+2015-11-03 21:31:02,108 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:02,109 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:02,109 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-11-03 21:31:02,109 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:02,109 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:02,392 INFO  [Log] Excel sheet opened 
+2015-11-03 21:31:06,588 INFO  [Log] New driver instantiated 
+2015-11-03 21:31:06,609 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-11-03 21:31:09,476 INFO  [Log] Web application launched 
+2015-11-03 21:31:09,484 INFO  [Log] Username picked from Excel is myusername 
+2015-11-03 21:31:09,484 INFO  [Log] Password picked from Excel is mypassword 
+2015-11-03 21:31:09,619 INFO  [Log] Username text box found 
+2015-11-03 21:31:09,797 INFO  [Log] Username entered in the username text box 
+2015-11-03 21:31:09,808 INFO  [Log] Password tex box found 
+2015-11-03 21:31:09,874 INFO  [Log] Password entered in the password text box 
+2015-11-03 21:31:09,885 INFO  [Log] Submit button found 
+2015-11-03 21:31:15,033 INFO  [Log] Click action performed on Submit button 
+2015-11-03 21:31:34,918 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:34,919 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:34,919 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-11-03 21:31:34,919 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:34,919 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:31:35,256 INFO  [Log] Excel sheet opened 
+2015-11-03 21:31:39,503 INFO  [Log] New driver instantiated 
+2015-11-03 21:31:39,576 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-11-03 21:31:42,193 INFO  [Log] Web application launched 
+2015-11-03 21:31:42,196 INFO  [Log] Username picked from Excel is myusername 
+2015-11-03 21:31:42,196 INFO  [Log] Password picked from Excel is mypassword 
+2015-11-03 21:31:42,482 INFO  [Log] Username text box found 
+2015-11-03 21:31:42,549 INFO  [Log] Username entered in the username text box 
+2015-11-03 21:31:42,560 INFO  [Log] Password tex box found 
+2015-11-03 21:31:42,611 INFO  [Log] Password entered in the password text box 
+2015-11-03 21:31:42,622 INFO  [Log] Submit button found 
+2015-11-03 21:31:43,939 INFO  [Log] Click action performed on Submit button 
+2015-11-03 21:32:08,902 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:32:08,903 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:32:08,903 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-11-03 21:32:08,903 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:32:08,903 INFO  [Log] **************************************************************************************** 
+2015-11-03 21:32:09,185 INFO  [Log] Excel sheet opened 
+2015-11-03 21:32:13,363 INFO  [Log] New driver instantiated 
+2015-11-03 21:32:13,379 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-11-03 21:32:15,586 INFO  [Log] Web application launched 
+2015-11-03 21:32:15,590 INFO  [Log] Username picked from Excel is myusername 
+2015-11-03 21:32:15,591 INFO  [Log] Password picked from Excel is mypassword 
+2015-11-03 21:32:15,888 INFO  [Log] Username text box found 
+2015-11-03 21:32:15,955 INFO  [Log] Username entered in the username text box 
+2015-11-03 21:32:15,966 INFO  [Log] Password tex box found 
+2015-11-03 21:32:16,017 INFO  [Log] Password entered in the password text box 
+2015-11-03 21:32:16,028 INFO  [Log] Submit button found 
+2015-11-03 21:32:17,097 INFO  [Log] Click action performed on Submit button 

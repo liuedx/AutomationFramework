@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13831" started-at="2015-11-04T02:31:01Z" finished-at="2015-11-04T02:31:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13831" started-at="2015-11-04T02:31:01Z" finished-at="2015-11-04T02:31:15Z">
+      <class name="test.java.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.java.NewTest@e580929]" name="beforeMethod" is-config="true" duration-ms="7743" started-at="2015-11-03T21:31:01Z" finished-at="2015-11-03T21:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test.java.NewTest@e580929]" name="f" duration-ms="5557" started-at="2015-11-03T21:31:09Z" finished-at="2015-11-03T21:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.java.NewTest@e580929]" name="afterMethod" is-config="true" duration-ms="492" started-at="2015-11-03T21:31:15Z" finished-at="2015-11-03T21:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.java.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
